@@ -35,22 +35,10 @@ The README includes sections for Description, Installation, Usage, License, Cont
 -Questions
 
 ## Installation
-To install and run this application locally, please follow these steps:
-
-Clone the repository via SSH:
-
-`git clone git@github.com:elele20005/Kanban_Board.git`
-       
-   Navigate to the Project Directory
-
-
- command: cd Kanban_Board
-
-Use your preferred package manager, such as `Node Package Manager (NPM)`, to install the required dependency packages. Set up a `SQL` database for the Kanban Board software using your chosen database management system, such as `PostgreSQL`. Transpile the Kanban Board server and client `TypeScript` code into `JavaScript` using the scripts defined in the `package.json`file. Once the code is transpiled, you can run the `npm run seed` script to populate the `SQL` database with user accounts and project issue tickets.
+Ensure Node.js is installed. Download or clone the repo. Use npm i to install the dependencies needed for the project. Use npm run build to build the app. Use npm start to run the server.
  
-
 ## Usage
-Start the Kanban Board server by running the `npm run start` script from the top-level `package.json`. Log in to the Kanban Board and use the on-screen buttons to manage project ticket statuses. Click the link below to access the deployed web app. Please note that the app may take some time to load as it is hosted on a free-tier platform.   
+While server is running, utilize Insomnia, MongoDBCompass or similar program which can simulate API calls. Use the appropriate routes listed in the routes code.
 
 ## Credits
 Starter code provided by edX/BCS. All missing code was written by Rafiu Lawal. The BCS XPert Learning Bot and ChatGPT both provided some assistance. Instructor's and TAs' office hours and class recording vedios was also helpful to help troubleshoot the deployment onto Render.
