@@ -41,7 +41,7 @@ Ensure Node.js is installed. Download or clone the repo. Use npm i to install th
 While server is running, utilize Insomnia, MongoDBCompass or similar program which can simulate API calls. Use the appropriate routes listed in the routes code.
 
 ## Credits
-Starter code provided by edX/BCS. All missing code was written by Rafiu Lawal. The BCS XPert Learning Bot and ChatGPT both provided some assistance. Instructor's and TAs' office hours and class recording vedios was also helpful to help troubleshoot the deployment onto Render.
+All code was written by me with assistance from various AI chatbots, including Claude, ChatGPT, and GitHub Copilot. I also wathed a lot of Youtube tutorials when troubleshooting issues with Insomnia. Additionally, several YouTube tutorials were referenced to better understand API structure as well. 
 
 ## License
 This project is licensed under the MIT license and Apache 2.0. See the LICENSE file for details.
