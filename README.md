@@ -49,19 +49,15 @@ This project is licensed under the MIT license and Apache 2.0. See the LICENSE f
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Contribution
-Contributions are welcome! Please feel free to Contact Rafiu(Ralph) Lawal for inquiries about making contributions.
-
+No contributions needed at this time - but feel free to download, fork, use, and play with the codes as desired.
 
 ## Tests
-To test the application, Click the on-screen buttons to test the client-side functions. To test the server-side functions, use your preferred API development platform, such as Insomnia.
+See above; Usage instructions.
 
-![Krazy Kanban Board  Test](https://github.com/user-attachments/assets/005b6d9f-8891-4c10-b446-be37eaeae545)
+## Demo Link: 
 
 
-## Render Deployed Link: 
-https://kanban_board-1ft9.onrender.com/
-
-## For more questions, please reach out to:
+## For Questions, please reach out to:
  
 - GitHub: https://github.com/elele20005
 - Email: ralphconsultant1@gmail.com 
