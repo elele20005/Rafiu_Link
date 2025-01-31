@@ -1,4 +1,4 @@
-# Kanban_Board
+# RAFIU_LINK
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
 
@@ -11,22 +11,8 @@ SO THAT my website can handle large amounts of unstructured data
 ## Description: NoSQL
 Rafiu_Link is a social network API that allows users to share their thoughts, add other users as friends, and react to friends' thoughts.
 
-Table of Contents
-LitLink
-Description
-Table of Contents
-Screenshot
-User Story
-Acceptance Criteria
-Installation
-Usage
-Credits
-License
-How to Contribute
-Tests
-Questions?
 
-                                `The Snippet Is Shown Below`
+                              `The Snippet Is Shown Below`
 ![Krazy Kanban Board](https://github.com/user-attachments/assets/4145837c-9982-4fcb-85ea-1404cfa3f086)
 
 
@@ -38,14 +24,15 @@ The README includes sections for Description, Installation, Usage, License, Cont
 
 -Description     
 -Installation      
--Usage        
+-Usage 
+-Credits
 -License      
--Contributing       
+-Contribution       
 -Tests         
 -Questions
 
 ## Installation
-Ensure Node.js is installed. Download or clone the repo. Use npm i to install the dependencies needed for the project. Use npm run build to build the app. Use npm start to run the server.
+Ensure Node.js is installed. Download or clone the repo. Use "npm i" to install the dependencies needed for the project. Use `npm run build` to build the app. Use `npm start` to run the server.
  
 ## Usage
 While server is running, utilize Insomnia, MongoDBCompass or similar program which can simulate API calls. Use the appropriate routes listed in the routes code.
