@@ -18,16 +18,16 @@ Rafiu_Link is a social network API that allows users to share their thoughts, ad
 
 
 
-The README includes sections for Description, Installation, Usage, License, Contributions, Tests, and Questions.   
+The README includes sections for Description, Installation, Usage,Credits, License, Contributions, Tests, and Questions.   
 
 
 ## Table of Contents
 
 -Description     
 -Installation      
--Usage 
--Credits
--License      
+-Usage     
+-Credits    
+-License         
 -Contribution       
 -Tests         
 -Questions
