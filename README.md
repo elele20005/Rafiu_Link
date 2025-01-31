@@ -33,7 +33,7 @@ The README includes sections for Description, Installation, Usage,Credits, Licen
 -Questions
 
 ## Installation
-Ensure Node.js is installed. Download or clone the repo. Use `npm i` to install the dependencies needed for the project. Use `npm run build` to build the app. Use `npm start` to run the server.
+Ensure Node.js is installed. Download or clone the repo. Use `npm i` to install the dependencies needed for the project. Use `npm run build` to build the app. Use `npm start` or `npm run dev` to run the server.
  
 ## Usage
 While server is running, utilize Insomnia, MongoDBCompass or similar program which can simulate API calls. Use the appropriate routes listed in the routes code.
