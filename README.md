@@ -4,17 +4,27 @@
 
 ## User Story
 
-AS A member of an agile team
-I WANT a Kanban board with a secure login page
-SO THAT I can securely access and manage my work tasks
+AS A social media startup
+I WANT an API for my social network that uses a NoSQL database
+SO THAT my website can handle large amounts of unstructured data
 
-## Description: JavaScript + JSON Web Tokens
-Krazy Kanban Board is a web-based application designed to help users track production issues across various projects. It allows users to create tickets detailing production issues and manage them by transitioning the tickets through different statuses: "Todo," "In Progress," and "Done." Access to view or modify tickets is restricted to authenticated users.
+## Description: NoSQL
+Rafiu_Link is a social network API that allows users to share their thoughts, add other users as friends, and react to friends' thoughts.
 
-When a user attempts to log in, the server verifies the provided password by comparing it against the salted and hashed password stored in the database using bcrypt. Upon successful authentication, the server generates a JWT (JSON Web Token) for the user. This token is then used to authorize interactions with the stored issue tickets, ensuring secure access and operations.
-My Challenge this week is to add authentication with JWT to an existing Kanban board application.    
-
-The Kanban board application has already been created. It's my job to complete the UI for the login page, add authentication with JWT to the server API, and then deploy the entire application to Render.
+Table of Contents
+LitLink
+Description
+Table of Contents
+Screenshot
+User Story
+Acceptance Criteria
+Installation
+Usage
+Credits
+License
+How to Contribute
+Tests
+Questions?
 
                                 `The Snippet Is Shown Below`
 ![Krazy Kanban Board](https://github.com/user-attachments/assets/4145837c-9982-4fcb-85ea-1404cfa3f086)
