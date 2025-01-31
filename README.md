@@ -13,7 +13,8 @@ Rafiu_Link is a social network API that allows users to share their thoughts, ad
 
 
                               `The Snippet Is Shown Below`
-![Krazy Kanban Board](https://github.com/user-attachments/assets/4145837c-9982-4fcb-85ea-1404cfa3f086)
+![RafiuLinkDemo](https://github.com/user-attachments/assets/5220b292-1784-4e0f-90ed-f1d6e9d2efd5)
+
 
 
 
@@ -32,7 +33,7 @@ The README includes sections for Description, Installation, Usage, License, Cont
 -Questions
 
 ## Installation
-Ensure Node.js is installed. Download or clone the repo. Use "npm i" to install the dependencies needed for the project. Use `npm run build` to build the app. Use `npm start` to run the server.
+Ensure Node.js is installed. Download or clone the repo. Use `npm i` to install the dependencies needed for the project. Use `npm run build` to build the app. Use `npm start` to run the server.
  
 ## Usage
 While server is running, utilize Insomnia, MongoDBCompass or similar program which can simulate API calls. Use the appropriate routes listed in the routes code.
